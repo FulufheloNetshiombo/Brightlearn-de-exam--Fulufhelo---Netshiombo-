@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.6 dwh_fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.6 dwh_fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.5 dwh_dim_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.5 dwh_dim_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.4 dwh_dim_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.4 dwh_dim_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.3 dwh_dim_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.3 dwh_dim_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.2 dwh_dim_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.2 dwh_dim_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.1 dwh_dim_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:3.1 dwh_dim_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.6 clean_fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.6 clean_fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.5 stg_clean_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.5 stg_clean_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.4 stg_clean_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.4 stg_clean_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.3 stg_clean_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.3 stg_clean_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.2 stg_clean_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.2 stg_clean_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.1 stg_clean_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:2.1 stg_clean_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.5 stg_dim_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:1.5 stg_dim_products.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.4 stg_dim_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:1.4 stg_dim_payment.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.3 stg_dim_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:1.3 stg_dim_stores.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.2 stg_dim_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:1.2 stg_dim_customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.1 stg_dim_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:1.1 stg_dim_date.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\0.0Load_raw_data.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:0.0Load_raw_data.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ECDA53E5-079D-63C3-6C0B-51FE5985683A}|Bright_Lear_sales.dtproj|solutionrelative:Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3.1 dwh_dim_date.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.1 dwh_dim_date.dtsx",
+              "RelativeDocumentMoniker": "3.1 dwh_dim_date.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.1 dwh_dim_date.dtsx [Design]",
+              "RelativeToolTip": "3.1 dwh_dim_date.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:17:08.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3.2 dwh_dim_customer.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.2 dwh_dim_customer.dtsx",
+              "RelativeDocumentMoniker": "3.2 dwh_dim_customer.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.2 dwh_dim_customer.dtsx [Design]",
+              "RelativeToolTip": "3.2 dwh_dim_customer.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:18:16.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Master.dtsx",
+              "RelativeDocumentMoniker": "Master.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Master.dtsx [Design]",
+              "RelativeToolTip": "Master.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T18:54:06.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.4 dwh_dim_payment.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.4 dwh_dim_payment.dtsx",
+              "RelativeDocumentMoniker": "3.4 dwh_dim_payment.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.4 dwh_dim_payment.dtsx [Design]",
+              "RelativeToolTip": "3.4 dwh_dim_payment.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:20:22.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.5 dwh_dim_products.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.5 dwh_dim_products.dtsx",
+              "RelativeDocumentMoniker": "3.5 dwh_dim_products.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.5 dwh_dim_products.dtsx [Design]",
+              "RelativeToolTip": "3.5 dwh_dim_products.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:21:17.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.6 dwh_fact_sales.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.6 dwh_fact_sales.dtsx",
+              "RelativeDocumentMoniker": "3.6 dwh_fact_sales.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.6 dwh_fact_sales.dtsx [Design]",
+              "RelativeToolTip": "3.6 dwh_fact_sales.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:22:08.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2.6 clean_fact_sales.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.6 clean_fact_sales.dtsx",
+              "RelativeDocumentMoniker": "2.6 clean_fact_sales.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.6 clean_fact_sales.dtsx [Design]",
+              "RelativeToolTip": "2.6 clean_fact_sales.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:08:15.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2.5 stg_clean_products.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.5 stg_clean_products.dtsx",
+              "RelativeDocumentMoniker": "2.5 stg_clean_products.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.5 stg_clean_products.dtsx [Design]",
+              "RelativeToolTip": "2.5 stg_clean_products.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T15:40:50.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2.4 stg_clean_payment.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.4 stg_clean_payment.dtsx",
+              "RelativeDocumentMoniker": "2.4 stg_clean_payment.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.4 stg_clean_payment.dtsx [Design]",
+              "RelativeToolTip": "2.4 stg_clean_payment.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T15:39:46.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3.3 dwh_dim_stores.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.3 dwh_dim_stores.dtsx",
+              "RelativeDocumentMoniker": "3.3 dwh_dim_stores.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\3.3 dwh_dim_stores.dtsx [Design]",
+              "RelativeToolTip": "3.3 dwh_dim_stores.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T16:19:36.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "2.3 stg_clean_stores.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.3 stg_clean_stores.dtsx",
+              "RelativeDocumentMoniker": "2.3 stg_clean_stores.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.3 stg_clean_stores.dtsx [Design]",
+              "RelativeToolTip": "2.3 stg_clean_stores.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T15:38:30.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2.2 stg_clean_customer.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.2 stg_clean_customer.dtsx",
+              "RelativeDocumentMoniker": "2.2 stg_clean_customer.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.2 stg_clean_customer.dtsx [Design]",
+              "RelativeToolTip": "2.2 stg_clean_customer.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T15:36:54.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "2.1 stg_clean_date.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.1 stg_clean_date.dtsx",
+              "RelativeDocumentMoniker": "2.1 stg_clean_date.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\2.1 stg_clean_date.dtsx [Design]",
+              "RelativeToolTip": "2.1 stg_clean_date.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T15:35:48.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "1.5 stg_dim_products.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.5 stg_dim_products.dtsx",
+              "RelativeDocumentMoniker": "1.5 stg_dim_products.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.5 stg_dim_products.dtsx [Design]",
+              "RelativeToolTip": "1.5 stg_dim_products.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T14:56:02.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "1.4 stg_dim_payment.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.4 stg_dim_payment.dtsx",
+              "RelativeDocumentMoniker": "1.4 stg_dim_payment.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.4 stg_dim_payment.dtsx [Design]",
+              "RelativeToolTip": "1.4 stg_dim_payment.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T14:54:30.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "1.3 stg_dim_stores.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.3 stg_dim_stores.dtsx",
+              "RelativeDocumentMoniker": "1.3 stg_dim_stores.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.3 stg_dim_stores.dtsx [Design]",
+              "RelativeToolTip": "1.3 stg_dim_stores.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T14:53:25.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "1.2 stg_dim_customer.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.2 stg_dim_customer.dtsx",
+              "RelativeDocumentMoniker": "1.2 stg_dim_customer.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.2 stg_dim_customer.dtsx [Design]",
+              "RelativeToolTip": "1.2 stg_dim_customer.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T14:52:20.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "1.1 stg_dim_date.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.1 stg_dim_date.dtsx",
+              "RelativeDocumentMoniker": "1.1 stg_dim_date.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\1.1 stg_dim_date.dtsx [Design]",
+              "RelativeToolTip": "1.1 stg_dim_date.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-19T14:57:19.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "0.0Load_raw_data.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\0.0Load_raw_data.dtsx",
+              "RelativeDocumentMoniker": "0.0Load_raw_data.dtsx",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\0.0Load_raw_data.dtsx [Design]",
+              "RelativeToolTip": "0.0Load_raw_data.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-07-18T18:40:09.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project.params [Design]",
+              "DocumentMoniker": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Project.params",
+              "RelativeDocumentMoniker": "Project.params",
+              "ToolTip": "C:\\Users\\mukol\\Desktop\\Brightlearn\\Brightlearn-de-exam--Fulufhelo---Netshiombo-\\Bright_Lear_sales\\Project.params [Design]",
+              "RelativeToolTip": "Project.params [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-21T19:58:22.025Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

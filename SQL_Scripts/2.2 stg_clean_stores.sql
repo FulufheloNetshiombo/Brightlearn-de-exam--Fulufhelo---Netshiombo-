@@ -43,10 +43,8 @@ CREATE PROCEDURE dbo.sp_Create_stg_clean_stores
 AS
 BEGIN
     -- Drop the table if it exists
-    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_store', 'U') IS NOT NULL
+    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_store', 'U') IS NULL
     BEGIN
-        DROP TABLE stg_brightlearn_sales.dbo.stg_clean_store;
-    END;
 
     -- Create the table
     CREATE TABLE stg_brightlearn_sales.dbo.stg_clean_store
@@ -60,6 +58,7 @@ BEGIN
         cashier_name NVARCHAR(250) NOT NULL,
         LoadDate DATETIME NOT NULL DEFAULT GETDATE()
     );
+    END
 END;
 GO
 
@@ -67,6 +66,7 @@ GO
 CREATE PROCEDURE dbo.sp_Load_stg_clean_store
 AS
 BEGIN
+Truncate Table stg_brightlearn_sales.dbo.stg_clean_stores
     INSERT INTO stg_brightlearn_sales.dbo.stg_clean_stores
     (
         store_name,

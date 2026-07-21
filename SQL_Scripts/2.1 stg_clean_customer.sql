@@ -60,34 +60,32 @@ GO
 select * from stg_brightlearn_sales.dbo.stg_clean_customer
 
 --Stored procedure for creating clean customer table
-CREATE PROCEDURE [dbo].[sp_Create_stg_clean_customer]
+CREATE PROCEDURE dbo.sp_Create_stg_clean_customer
 AS
 BEGIN
-  
-    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_customer', 'U') IS NOT NULL
+    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_customer', 'U') IS NULL
     BEGIN
-        DROP TABLE stg_brightlearn_sales.dbo.stg_clean_customer;
-    END;
-
-    CREATE TABLE stg_brightlearn_sales.dbo.stg_clean_customer
-    (
-        customer_id INT IDENTITY(1,1) PRIMARY KEY,
-        customer_first_name NVARCHAR(255) NOT NULL,
-        customer_last_name NVARCHAR(255) NOT NULL,
-        customer_email NVARCHAR(255) NOT NULL,
-        customer_phone NVARCHAR(255) NOT NULL,
-        customer_city NVARCHAR(255) NOT NULL,
-        customer_province NVARCHAR(255) NOT NULL,
-        customer_loyalty_tier NVARCHAR(255) NOT NULL,
-        LoadDate DATETIME NOT NULL DEFAULT GETDATE()
-    );
+        CREATE TABLE stg_brightlearn_sales.dbo.stg_clean_customer
+        (
+            customer_id INT IDENTITY(1,1) PRIMARY KEY,
+            customer_first_name NVARCHAR(255) NOT NULL,
+            customer_last_name NVARCHAR(255) NOT NULL,
+            customer_email NVARCHAR(255) NOT NULL,
+            customer_phone NVARCHAR(255) NOT NULL,
+            customer_city NVARCHAR(255) NOT NULL,
+            customer_province NVARCHAR(255) NOT NULL,
+            customer_loyalty_tier NVARCHAR(255) NOT NULL,
+            LoadDate DATETIME NOT NULL DEFAULT GETDATE()
+        );
+    END
 END;
 GO
 
 --Create stored procedure for loading data
-CREATE PROCEDURE dbo.p_Load_stg_clean_customer
+CREATE PROCEDURE dbo.sp_Load_stg_clean_customer
 AS 
 BEGIN
+Truncate table stg_brightlearn_sales.dbo.stg_clean_customer
     INSERT INTO stg_brightlearn_sales.dbo.stg_clean_customer
     (
         customer_first_name,

@@ -32,10 +32,8 @@ CREATE PROCEDURE dbo.sp_Create_stg_clean_payment
 AS
 BEGIN
     -- Drop the table if it exists
-    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_payment', 'U') IS NOT NULL
+    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_payment', 'U') IS NULL
     BEGIN
-        DROP TABLE stg_brightlearn_sales.dbo.stg_clean_payment;
-    END;
 
     -- Create the table
     CREATE TABLE stg_brightlearn_sales.dbo.stg_clean_payment
@@ -44,6 +42,7 @@ BEGIN
         payment_method NVARCHAR(250) NOT NULL,
         LoadDate DATETIME NOT NULL DEFAULT GETDATE()
     );
+    END
 END;
 GO
 
@@ -51,13 +50,16 @@ GO
 CREATE PROCEDURE dbo.sp_Load_stg_clean_payment
 AS
 BEGIN
+    -- Clear existing data
+    TRUNCATE TABLE stg_brightlearn_sales.dbo.stg_clean_payment;
+
     -- Load cleaned data
     INSERT INTO stg_brightlearn_sales.dbo.stg_clean_payment
     (
         payment_method
     )
     SELECT DISTINCT
-        LOWER(TRIM(payment_method))
+        LOWER(ISNULL(NULLIF(TRIM(payment_method), ''), 'unknown')) AS payment_method
     FROM stg_brightlearn_sales.dbo.stg_dim_payment;
 END;
 GO

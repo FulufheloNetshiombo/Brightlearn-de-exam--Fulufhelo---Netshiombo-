@@ -57,10 +57,8 @@ LEFT JOIN stg_brightlearn_sales.dbo.stg_dim_product c
 AS
 BEGIN
     -- Drop the table if it exists
-    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_product', 'U') IS NOT NULL
+    IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_clean_product', 'U') IS NULL
     BEGIN
-        DROP TABLE stg_brightlearn_sales.dbo.stg_clean_product;
-    END;
 
     -- Create the table
     CREATE TABLE stg_brightlearn_sales.dbo.stg_clean_product
@@ -73,6 +71,7 @@ BEGIN
         supplier NVARCHAR(250) NOT NULL,
         LoadDate DATETIME NOT NULL DEFAULT GETDATE()
     );
+    END
 END;
 GO
 
@@ -82,6 +81,7 @@ CREATE PROCEDURE dbo.sp_Load_stg_clean_product
 AS
 BEGIN
     -- Load cleaned data
+    TRUNCATE TABLE stg_brightlearn_sales.dbo.stg_clean_product
     INSERT INTO stg_brightlearn_sales.dbo.stg_clean_product
     (
         product_name,

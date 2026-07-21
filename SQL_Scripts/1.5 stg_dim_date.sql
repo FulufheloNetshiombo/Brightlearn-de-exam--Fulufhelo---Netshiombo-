@@ -1,3 +1,7 @@
+--Drop the fact tables
+DROP TABLE IF EXISTS dwh_brightlearn_sales.dbo.dwh_fact_sales;
+DROP TABLE IF EXISTS stg_brightlearn_sales.dbo.stg_clean_fact_sales;
+GO
 --Drop table if already exists
 IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_dim_date', 'U') IS NOT NULL
 BEGIN
@@ -50,13 +54,17 @@ FROM stg_brightlearn_sales.dbo.stg_dim_date;
 CREATE PROCEDURE dbo.sp_Create_stg_dim_date
 AS
 BEGIN
-    -- Drop the table if it exists
+    -- Drop dependent tables if they exist
+    DROP TABLE IF EXISTS dwh_brightlearn_sales.dbo.dwh_fact_sales;
+    DROP TABLE IF EXISTS stg_brightlearn_sales.dbo.stg_clean_fact_sales;
+
+    -- Drop the staging date table if it exists
     IF OBJECT_ID('stg_brightlearn_sales.dbo.stg_dim_date', 'U') IS NOT NULL
     BEGIN
         DROP TABLE stg_brightlearn_sales.dbo.stg_dim_date;
     END;
 
-    -- Create the table
+    -- Create the staging date table
     CREATE TABLE stg_brightlearn_sales.dbo.stg_dim_date
     (
         date_id INT IDENTITY(1,1) PRIMARY KEY,
@@ -66,9 +74,8 @@ BEGIN
     );
 END;
 GO
-
 -- Stored procedure to insert data
-CREATE OR ALTER PROCEDURE dbo.sp_Load_stg_dim_date
+CREATE PROCEDURE dbo.sp_Load_stg_dim_date
 AS
 BEGIN
     -- Clear existing data
