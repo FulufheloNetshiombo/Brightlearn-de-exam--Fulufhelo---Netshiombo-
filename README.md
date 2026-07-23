@@ -88,6 +88,8 @@ These transformations ensured that the data loaded into the data warehouse was a
 The BrightLearn Sales data warehouse was built in Draw.io using a Star Schema, which I chosen because of its simple structure, improved query performanceand ease of reporting. The schema consists of five dimension tables (Customer, Product, Store, Payment, and Date) linked to a central Sales Fact table through primary and foreign key relationships.
 
 The dimension tables store descriptive business information, while the fact table stores measurable sales data, including transaction amount, unit price, cost price, quantity sold, line amount, stock on hand, reorder threshold and transaction discount. This design provides a single source of truth and enables efficient reporting, analysis and business intelligence.
+<img width="824" height="855" alt="Brightlearnsale data model drawio" src="https://github.com/user-attachments/assets/066774e2-f2f9-4cec-9838-98ca902dc8b1" />
+
 
 ## Business Questions and Findings
 
